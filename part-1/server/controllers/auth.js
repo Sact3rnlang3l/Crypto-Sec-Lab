@@ -10,7 +10,7 @@ module.exports = {
         // console.log('cheeeeeeeeeese')
         let existing = bcrypt.compareSync(password, users[i].pwhash)
         if (users[i].username === username && existing === true) {
-        users.push(req.body)
+        // users.push(req.body)
         console.log('Logging in')
         let messageToReturn = {... users[i]}
         delete messageToReturn.pwhash

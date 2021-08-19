@@ -1,0 +1,18 @@
+In the end of 2011 Sony came out to the public informing
+ them that there was a major data breach, 
+ and they would be temporarily suspending services for their PlayStation Network. 
+ 
+ Before the shutdown and breach there had been a week-long attack 
+ by the group called Anonymous using Ddos tactics to overwhelm the servers and infrastructure.
+  This attack was mainly due to a decision Sony had made, but was not the actual breach. 
+  There have been two main avenues the system could have been breached. 
+  During the week-long attack the group Anonymous could easily have found a loop into the system, or set up a way for an easy SQL injection. 
+The other Theory is that using some new developer tools recently released,
+ a gateway into internal Sony systems was easily accessed and exploited.
+Either way an unknown group was able to get into the internal servers,
+ where they found unencrypted private information of at least 2500 individuals,
+  including sensitive information. 
+
+Sony has since closed the access into their internal networks using the Dev tools, 
+and started to encrypt all information regarding individuals using their online services, 
+and their accounts. There have been further attempts over the years, emboldened by this initial massive attack.
